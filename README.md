@@ -1,1 +1,1 @@
-This is the directory for the git project.
+This is the directory for the git project

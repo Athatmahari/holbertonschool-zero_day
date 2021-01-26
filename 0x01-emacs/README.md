@@ -1,0 +1,1 @@
+This is the repository for the Emacs assigment day 0 Holberton
