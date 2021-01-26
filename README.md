@@ -1,3 +1,4 @@
-# holbertonschool-zero_day
+
 **Hello world**
-# holbertonschool-zero_day
+
+This is the repository for day 0 on holberton school
